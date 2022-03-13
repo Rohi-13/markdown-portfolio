@@ -1,2 +1,2 @@
-My Github profile link:
-_includes/03-links.md
+My Github profile link
+[GitHub](http://github.com)
